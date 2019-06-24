@@ -1,7 +1,7 @@
 # README
 Light high contrast theme
 
-![screenshot](screenshot.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/StephenWassell/light-high-contrast-theme/master/screenshot.png "screenshot")
 
     "workbench.colorCustomizations": {
         "breadcrumb.background": "#eeeeee",
