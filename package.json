@@ -1,0 +1,22 @@
+{
+    "name": "light-high-contrast-theme",
+    "publisher": "stephenwassell",
+    "displayName": "Light High Contrast Theme",
+    "description": "Based on Light+ but with borders and black text",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light High Contrast Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Light High Contrast Theme-color-theme.json"
+            }
+        ]
+    }
+}
