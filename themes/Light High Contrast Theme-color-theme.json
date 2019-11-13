@@ -3,6 +3,8 @@
 	"name": "Light High Contrast Theme",
 	"type": "light",
 	"colors": {
+		"activityBar.activeBackground": "#305070",
+		"activityBar.activeBorder": "#305070",
 		"activityBarBadge.background": "#007acc",
 		"breadcrumb.background": "#eeeeee",
 		"breadcrumb.foreground": "#000000",

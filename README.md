@@ -1,9 +1,10 @@
-# README
-Light high contrast theme
+# Light high contrast theme
 
 ![screenshot](https://raw.githubusercontent.com/StephenWassell/light-high-contrast-theme/master/screenshot.png "screenshot")
 
     "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#305070",
+        "activityBar.activeBorder": "#305070",
         "breadcrumb.background": "#eeeeee",
         "breadcrumb.foreground": "#000000",
         "contrastBorder": "#aaaaaa",
