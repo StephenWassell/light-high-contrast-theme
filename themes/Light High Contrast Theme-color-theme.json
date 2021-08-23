@@ -45,6 +45,7 @@
 		"quickInputList.focusForeground": "#000000",
 		"menu.background": "#f3f3f3",
 		"menu.foreground": "#000000",
+		"list.focusHighlightForeground": "#007",
 		//"activityBar.background": "#2c2c2c",
 		//"activityBar.dropBackground": "#ffffff1f",
 		//"activityBar.foreground": "#ffffff",
