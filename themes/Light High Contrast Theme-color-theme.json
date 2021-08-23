@@ -41,7 +41,7 @@
 		"tab.inactiveForeground": "#000000",
 		"terminal.background": "#ffffdd",
 		"terminal.foreground": "#000000",
-		"quickInputList.focusBackground": "#aaccee",
+		"quickInputList.focusBackground": "#fff",
 		"quickInputList.focusForeground": "#000000",
 		"menu.background": "#f3f3f3",
 		"menu.foreground": "#000000",
